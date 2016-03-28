@@ -1,3 +1,5 @@
+***You will need both the Wiegand library and the Adafruit_Neopixel library for this sketch to compile***
+
 This project has several goals:
 
 1.) Allow RFID card access to a gumball machine via a relay
